@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">intent</string>
+    <string name="MenuPrincipal">Menu Principal</string>
+    <string name="tv1">Tae Kwon Do</string>
+    <string name="BotonAnterior">Anterior</string>
+    <string name="tv2">ParaMetros Del TaeKwonDo</string>
+    <string name="HISTORIA">Historia</string>
+    <string name="tv3">El taekwondo es un arte marcial moderno creado, registrado por primera vez ante el gobierno koreano en 1955 por el general choi hong hi, quien para su creacion se baso en todo lo que aprendiera en su juventud como estudiante del taekkyon antes de la ocupacion japonesa de korea.</string>
+    <string name="Fundador">Fundador</string>
+    <string name="tv4">Dai Won Moon es el hombre que trajo el taekwondo a México. Sigue al frente de su escuela Moo Duk Kwan que afilia a 350 lugares de todo el país. Disciplina en mente, cuerpo e interior es como el profesor Dai Won Moon describe el taekwondo, coreano considerado el fundador de este deporte en México, cuando llegó en 1969</string>
+    <string name="Formas">PUMSE "POOMSAE", significa forma, modelo. Es una combinación de técnicas de defensa y ataque, con un significado que tiene su origen en la filosofía y la cultura del pueblo coreano. Existen 8 pumses básicos o TAEGUK y 9 pumses superiores.</string>
+    <string name="tv5">Formas</string>
+    <string name="Equipo">Equipo</string>
+    <string name="tv6">El equipamento en el taekwondo es indispensable para la practica del mismo ya que el cuerpo recibe una gran cantidad de impactos en distintas areas y el equipo ayuda reducir los dolores y lesiones ya sea durante el entrenamiento o combate tales como : Peto , Empeineras , Espinilleras , Casco ,Guantes , Coderas y protector bucal.</string>
+    <string name="Combate">Combate. </string>
+    <string name="tv7">El taekwondo es un deporte de combate que como tal presenta interacción directa de dos competidores, en un espacio compartido y con objetivos opuestos, en el que los  aspectos  tácticos  juegan  un  papel  crucial  debido  a  la corta duración de la práctica y a la rápida interacción entre los oponentes. </string>
+    <string name="Examenes">Examenes</string>
+    <string name="tv8">Los exámenes y el consiguiente cambio de cinturón, son la recompensa al trabajo realizado tanto a nivel mental como físico. Este trabajo no solamente es fruto del entreno en las clases pues para conseguir un buen nivel también hay que realizar un esfuerzo personal individual y tratar de mejorar las técnicas y los ejercicios vistos.</string>
+    <string name="Niveles">Niveles</string>
+    <string name="tv9">Los grados del taekwondo se dividen por KUP Y DAN , los grados KUP estan asociados a que cinturones de colores y los grados DAN  al cinturon negro en cada uno existen nueve grados , debido a que el numero tres en la cultura koreana es el numero de la suerte , tres por tres igual a nueve .</string>
+    <string name="Torneos">Torneos</string>
+    <string name="tv10">Loa torneos de taekwondo son la oportunidad perfecta para poner a prueba todo aquello que se aprende en las clases y en los entrenamientos , son perfectos para el enfoque de combate ya que te enfrentas a distintos oponentes y asi se adquiere una mayor experiencia en el combate asi como en la practica de este arte marcial</string>
+    <string name="TaeKwonDo" />
+    <string name="taek2" />
+    <string name="majin">majin</string>
+    <string name="sobre">sobre de:</string>
+    <string name="tv11">Desarrollado por:</string>
+    <string name="tv12">Angel Hurtado Filio</string>
+    <string name="tv13">Ingenieria en Tecnologias de la Informacion y Comunicacion</string>
+    <string name="tv14">Grupo 7T11</string>
+    <string name="angel">angel</string>
+    <string name="hola">hola</string>
+
+</resources>
